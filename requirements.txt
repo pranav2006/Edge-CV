@@ -1,0 +1,6 @@
+torch
+torchvision
+numpy
+onnx
+onnxruntime
+onnxruntime-tools
